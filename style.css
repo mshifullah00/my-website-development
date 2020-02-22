@@ -29,7 +29,7 @@ p{
     padding-left: 2%;
 }
 .half-width img{
-    width: 40%;
+    width: 70%;
 }
 .top-banner{
     background-image: url("images/header-bg.png");
@@ -45,6 +45,12 @@ p{
     background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
 }
-.half-width{
-    
+.work{
+    text-align: center;
+    padding: 0 10% 0 10%;
+    height: 450px;
+}
+.work img{
+    width: 20%;
+    float: left;
 }
